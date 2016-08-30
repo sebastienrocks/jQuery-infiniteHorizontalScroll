@@ -1,0 +1,17 @@
+.parent {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.infinite-scroll-wrapper {
+    overflow: hidden;
+    width: 1000%;
+    margin: 0;
+}
+
+.infinite-scroll-wrapper span {
+    display: block;
+    float: left;
+    color: black;
+    padding: 0 15px 0 0;
+}
